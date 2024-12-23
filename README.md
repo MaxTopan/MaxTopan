@@ -7,7 +7,7 @@
 
 ## 🌞 About Me
 
-I'm a passionate software engineer with a strong background in backend development, full-stack development and building out scalable, reliable APIs. I love solving new problems and utilising new technologies. With 10+ years experience in C#, I have successfully implemented many APIs and backend systems.
+I'm a passionate software engineer with a strong background in backend development, full-stack development and building out scalable, reliable APIs. I have 10+ years experience in C#, and I love solving new problems and utilising new technologies!
 
 ## 🔧 Skills & Technologies
 
