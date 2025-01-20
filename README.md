@@ -11,7 +11,7 @@ I'm a passionate software engineer with a strong background in backend developme
 
 ## 🔧 Skills & Technologies
 
-- **Languages**: C#, Python, JavaScript
+- **Languages**: C#, Python, Java, JavaScript
 - **Backend**: .NET, node.js, SQL
 - **Frontend**: Blazor, Razor, React, Angular, HTML, CSS
 - **Cloud Services**: Azure (Functions, DevOps, Pipelines, Application Gateway, Blob storage, CosmosDB)
